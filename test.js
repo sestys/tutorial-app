@@ -1,6 +1,5 @@
 const { whatIsTheMeaningOfLife } = require("./utils");
 
-console.log("teresr")
 
 if(whatIsTheMeaningOfLife() == 42){
     console.log("Test success");
